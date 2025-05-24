@@ -80,10 +80,17 @@ a {
     display: flex;
     align-items: center;
     height: 49.6px;
-    gap: 20px;
 }
 .navbar .nav-list a {
     text-decoration: none;
     color: #fff;
-    font-size: 1.2em;
+    font-size: 20px;
+    line-height: 49.6px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.navbar .nav-list a:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+    display: inline-block;
 }
