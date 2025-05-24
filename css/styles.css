@@ -84,10 +84,10 @@ a {
 .navbar .nav-list a {
     text-decoration: none;
     color: #fff;
-    font-size: 20px;
+    font-size: 1.2em;
     line-height: 49.6px;
-    padding-left: 8px;
-    padding-right: 8px;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
 }
 
 .navbar .nav-list a:hover {
